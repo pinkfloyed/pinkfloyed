@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, This is PINKI AKTER</h1>
-<h3 align="center">I’m a Computer Science & Engineering graduate with a keen interest in exploring various technologies and frameworks. I’m passionate about using and creating tools and media that aim to uplift society and make a positive impact. I aspire to leverage technology to empower people and drive meaningful change. If you share a vision of harnessing tech to benefit communities and foster innovation, let’s connect and collaborate! Feel free to check out my projects and reach out if you’re interested in discussing ideas or working together on impactful tech initiatives!</h3>
+<h3 align="center">I’m a Computer Science & Engineering graduate with a keen interest in exploring various technologies and frameworks. I’m passionate about using and creating tools and media that aim to uplift society and make a positive impact. If you share a vision of harnessing tech to benefit communities and foster innovation, let’s connect and collaborate! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkfloyed&label=Profile%20views&color=0e75b6&style=flat" alt="pinkfloyed" /> </p>
 
