@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **different web and android projects**
 
-- 🌱 I’m currently learning **.NET framework,c#**
+- 🌱 I’m currently learning **Django,Spring Boot**
 
 - 👯 I’m looking to collaborate on **open source projects**
   
@@ -17,10 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/pinki_456" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pinki_456" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/1804096_pinki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1804096_pinki" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pinkfloyed_99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pinkfloyed_99" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/pinkiakter195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pinkiakter195" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pinkfloyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pinkfloyed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pinkfloyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pinkfloyed" height="30" width="40" /></a>
+</p>
+<a href="https://atcoder.jp/users/young_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/atcoder.svg" alt="young_22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
