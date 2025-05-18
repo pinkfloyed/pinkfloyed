@@ -21,7 +21,7 @@
 <a href="https://www.hackerrank.com/profile/pinkiakter195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pinkiakter195" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pinkfloyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pinkfloyed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pinkfloyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pinkfloyed" height="30" width="40" /></a>
-<a href="https://atcoder.jp/users/young_22" target="_blank"><img align="center" src="https://imgur.com/IeWWtbq" alt="young_22" height="30" width="40"/>
+<a href="https://atcoder.jp/users/young_22" target="_blank"><img align="center" src="https://i.imgur.com/IeWWtbq.png" alt="young_22" height="30" width="40"/>
 </a>
 </p>
 
