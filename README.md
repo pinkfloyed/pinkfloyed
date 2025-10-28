@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **different web and android projects**
 
-- 🌱 I’m currently learning **Django,Spring Boot**
+- 🌱 I’m currently learning **ASP.NET Core, Django, Spring Boot**
 
 - 👯 I’m looking to collaborate on **open source projects**
   
