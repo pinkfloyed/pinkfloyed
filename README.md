@@ -135,7 +135,7 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/pinki-akter-594b06210/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/pinkfloyed" target="_blank">
